@@ -57,10 +57,10 @@
       "scripts": {
           "dev": "vite",
           "build": "vite build"
-      }
+      },
     
-  "build": {
-    "outputDirectory": "dist"
+        "build": {
+              "outputDirectory": "dist"
   
-}
+            }
   }
