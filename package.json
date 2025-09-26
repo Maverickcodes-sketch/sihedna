@@ -58,4 +58,9 @@
           "dev": "vite",
           "build": "vite build"
       }
+    
+  "build": {
+    "outputDirectory": "dist"
+  
+}
   }
